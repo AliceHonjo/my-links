@@ -5,19 +5,22 @@
 
 body{
     background-color: beige;
-    font-family: sans-serif;
+    font-family: chaucer;
 }
 
 img{
-    border-radius: 20px;
+    border-radius: 30px;
     width: 320px;
     height: 320px;
+    border: 2px solid burlywood;
+
 }
 
 h1{
     color:black;
     margin-top: 31px;
     margin-bottom: 8px;
+
 }
 
 ul{
@@ -39,7 +42,7 @@ a{
 }
 
 a:hover{
-    background-color: rgb(218, 151, 151);
+    background-color: burlywood;
     color: black;
 }
 
